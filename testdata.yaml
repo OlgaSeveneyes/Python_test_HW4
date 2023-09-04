@@ -1,0 +1,10 @@
+url: https://test-stand.gb.ru/
+url_login: https://test-stand.gb.ru/login
+url_get_token: https://test-stand.gb.ru/gateway/login
+url_api_posts: https://test-stand.gb.ru/api/posts
+url_api_create_posts: https://test-stand.gb.ru/gateway/posts
+browser: chrome
+sleep_time: 1
+username: NovMir568
+password: 5cb3cb1219
+test: test
